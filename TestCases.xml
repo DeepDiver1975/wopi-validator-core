@@ -2009,6 +2009,7 @@
         </Description>
         <Requests>
           <Lock Lock="LockString" />
+          <PutFile Lock="LockString" ResourceId="WordBlankDocument" />
           <CheckFileInfo>
             <SaveState>
               <State Name="OriginalVersion" Source="Version" />
